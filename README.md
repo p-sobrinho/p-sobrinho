@@ -23,7 +23,7 @@
 ---
 
 ### 🧠 About Me
-- 📔 Studying in Computer Engineering
+- 📔 Studying Computer Engineering
 
 ---
 
