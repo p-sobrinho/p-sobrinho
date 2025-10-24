@@ -29,13 +29,18 @@
 
 ### 💻 Tech Stack Highlights
 <p align="center">
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/>&nbsp;
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin"/>&nbsp;
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>&nbsp;
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>&nbsp;
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/java.png" alt="Java"/>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/kotlin.png" alt="Kotlin"/>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/postgres.png" alt="PostegreSQL"/>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/mongo.png" alt="MongoDB"/>
+</p>
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-sobrinho&layout=compact&hide_border=true&title_color=7F52FF&text_color=ffffff&bg_color=0d1117" />
+</p>
+<p align="center">
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/spring.png" alt="Spring"/>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/docker.png" alt="Docker"/>&nbsp;
+<img height="32" src="https://raw.githubusercontent.com/p-sobrinho/p-sobrinho/main/logos/aws.png" alt="AWS"/>
 </p>
 
 ---
